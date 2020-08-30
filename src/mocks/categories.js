@@ -1,0 +1,58 @@
+export default [
+  {
+    id: 1,
+    name: "Winter Jacket",
+    category: "Men Accessories",
+    price: 20,
+    image: "https://picsum.photos/seed/picsum/200/100?random=1",
+  },
+  {
+    id: 2,
+    name: "Wrist Watch",
+    category: "Men Accessories",
+    price: 30,
+    image: "https://picsum.photos/seed/picsum/200/100?random=2",
+  },
+  {
+    id: 3,
+    name: "Wrist Band",
+    category: "Women Accessories",
+    price: 5,
+    image: "https://picsum.photos/seed/picsum/200/100?random=3",
+  },
+  {
+    id: 4,
+    name: "Hand bag",
+    category: "Women Accessories",
+    price: 20,
+    image: "https://picsum.photos/seed/picsum/200/100?random=4",
+  },
+  {
+    id: 5,
+    name: "Shoes",
+    category: "Children Accessories",
+    price: 20,
+    image: "https://picsum.photos/seed/picsum/200/100?random=5",
+  },
+  {
+    id: 6,
+    name: "Kids Scraf",
+    category: "Children Accessories",
+    price: 10,
+    image: "https://picsum.photos/seed/picsum/200/100?random=6",
+  },
+  {
+    id: 7,
+    name: "Soccer Ball",
+    category: "Sports Accessories",
+    price: 20,
+    image: "https://picsum.photos/seed/picsum/200/100?random=7",
+  },
+  {
+    id: 8,
+    name: "Base Ball",
+    category: "Sports Accessories",
+    price: 15,
+    image: "https://picsum.photos/seed/picsum/200/100?random=8",
+  },
+];

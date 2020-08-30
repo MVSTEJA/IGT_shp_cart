@@ -1,0 +1,45 @@
+{
+  "name": "huddle.ai_assgn",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A project built with CRA, redux, react-hot-loader.",
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.19.2",
+    "history": "^4.7.2",
+    "node-sass": "^4.14.1",
+    "p-memoize": "^4.0.0",
+    "react": "^16.13.1",
+    "react-dom": "npm:@hot-loader/react-dom",
+    "react-hot-loader": "^4.3.12",
+    "react-redux": "^7.2.1",
+    "react-scripts": "3.4.3",
+    "redux": "^4.0.4",
+    "redux-immutable-state-invariant": "^2.1.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {}
+}
