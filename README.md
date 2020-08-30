@@ -1,4 +1,4 @@
-## Hosted at: [HuddleHire](https://huddlehire-287216.web.app/users)
+## Hosted at: [IGT_shopping_cart](https://igt-api.web.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
