@@ -85,7 +85,7 @@ export default () => {
         data-toggle="popover"
         data-trigger="hover"
         title="Tip"
-        data-content="Click to items added to your cart"
+        data-content="Click to view items added to your cart"
         data-placement="bottom"
       >
         <div
